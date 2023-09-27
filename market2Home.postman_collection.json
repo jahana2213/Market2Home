@@ -1,0 +1,43 @@
+{
+	"info": {
+		"_postman_id": "8e8f068a-8947-461e-98fc-a730d719bd63",
+		"name": "market2Home",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "14732264",
+		"_collection_link": "https://restless-satellite-35464.postman.co/workspace/My-Workspace~5d6cb46a-bc74-49e3-838e-c29534f218fd/collection/14732264-8e8f068a-8947-461e-98fc-a730d719bd63?action=share&source=collection_link&creator=14732264"
+	},
+	"item": [
+		{
+			"name": "Registration",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Login",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "ProfileDetails",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Logout",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
